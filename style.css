@@ -1,0 +1,24 @@
+body {
+	padding-top: 150px;
+}
+.box-1 {
+	width: 50%;
+	padding-left: 250px;
+}
+
+.box-2 {
+	min-height: 200px;
+	height: auto;
+}
+.box-3 {
+	height: 300px;
+}
+.topbox {
+	margin: 0 auto;
+}
+.reset {
+	padding-left: 250px;
+}
+.input {
+	width: 70%;
+}
