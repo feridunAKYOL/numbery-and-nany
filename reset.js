@@ -1,4 +1,4 @@
 function resetHandler() {
-	var elem = document.getElementById('ulNumber');
-	elem.parentNode.removeChild(elem);
+	document.getElementById('str').innerHTML = '<ul></ul>';
+	document.getElementById('number').innerHTML = '<ul></ul>';
 }
